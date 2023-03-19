@@ -1,0 +1,2281 @@
+<Journals>
+<Journal>
+<JournalName>ACM Transactions on Database Systems (TODS)</JournalName>
+<Volumes>
+<VolumeEntry>
+<Volume>20</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>March 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Alexander Aiken</Author>
+<Author>Joseph M. Hellerstein</Author>
+<Author>Jennifer Widom</Author>
+</Authors>
+<Title>Static Analysis Techniques for Predicting the Behavior of Active Database Rules.</Title>
+<StartPage>3</StartPage>
+<EndPage>41</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/AikenHW95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Weidong Chen</Author>
+</Authors>
+<Title>Declarative Updates of Relational Databases.</Title>
+<StartPage>42</StartPage>
+<EndPage>70</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/Chen95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>H. V. Jagadish</Author>
+</Authors>
+<Title>The INCINERATE Data Model.</Title>
+<StartPage>71</StartPage>
+<EndPage>110</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/Jagadish95.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>June 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Lars Baelig</Author>
+<Author>Leo Mark</Author>
+</Authors>
+<Title>Incremental Computation of Nested Relational Query Expressions.</Title>
+<StartPage>111</StartPage>
+<EndPage>148</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/BaekgaardM95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Jan Chomicki</Author>
+</Authors>
+<Title>Efficient Checking of Temporal Integrity Constraints Using Bounded History Encoding.</Title>
+<StartPage>149</StartPage>
+<EndPage>186</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/Chomicki95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Goetz Graefe</Author>
+<Author>Richard L. Cole</Author>
+</Authors>
+<Title>Fast Algorithms for Universal Quantification in Large Databases.</Title>
+<StartPage>187</StartPage>
+<EndPage>236</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/GraefeC95.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>September 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Weidong Chen</Author>
+</Authors>
+<Title>Query Evaluation in Deductive Databases with Alternating Fixpoint Semantics.</Title>
+<StartPage>239</StartPage>
+<EndPage>287</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/Chen95a.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Yannis E. Ioannidis</Author>
+<Author>Raghu Ramakrishnan</Author>
+</Authors>
+<Title>Containment of Conjunctive Queries: Beyond Relations as Sets.</Title>
+<StartPage>288</StartPage>
+<EndPage>324</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/IoannidisR95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Dennis Shasha</Author>
+<Author>Francois Llirbat</Author>
+<Author>Eric Simon</Author>
+<Author>Patrick Valduriez</Author>
+</Authors>
+<Title>Transaction Chopping: Algorithms and Performance Studies.</Title>
+<StartPage>325</StartPage>
+<EndPage>363</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/ShashaLSV95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Stefano Ceri</Author>
+<Author>Piero Fraternali</Author>
+<Author>Stefano Paraboschi</Author>
+<Author>Letizia Tanca</Author>
+</Authors>
+<Title>Addendum to "Automatic Generation of Production Rules for Integrity Maintenance".</Title>
+<StartPage>364</StartPage>
+<EndPage>365</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/CeriFPT95.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>December 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>I-Min A. Chen</Author>
+<Author>Richard Hull</Author>
+<Author>Dennis McLeod</Author>
+</Authors>
+<Title>An Execution Model for Limited Ambiguity Rules and Its Application to Derived Data Update.</Title>
+<StartPage>365</StartPage>
+<EndPage>413</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/ChenHM95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Piero Fraternali</Author>
+<Author>Letizia Tanca</Author>
+</Authors>
+<Title>A Structured Approach for the Definition of the Semantics of Active Databases.</Title>
+<StartPage>414</StartPage>
+<EndPage>471</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/FraternaliT95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Divesh Srivastava</Author>
+<Author>S. Sudarshan</Author>
+<Author>Raghu Ramakrishnan</Author>
+<Author>Jeffrey F. Naughton</Author>
+</Authors>
+<Title>Space Optimization in Deductive Databases.</Title>
+<StartPage>472</StartPage>
+<EndPage>516</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/SrivastavaSRN95.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+<VolumeEntry>
+<Volume>21</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>March 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Elena Baralis</Author>
+<Author>Stefano Ceri</Author>
+<Author>Stefano Paraboschi</Author>
+</Authors>
+<Title>Modularization Techniques for Active Rules Design.</Title>
+<StartPage>1</StartPage>
+<EndPage>29</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/BaralisCP96.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Peter Buneman</Author>
+<Author>Atsushi Ohori</Author>
+</Authors>
+<Title>Polymorphism and Type Inference in Database Programming.</Title>
+<StartPage>30</StartPage>
+<EndPage>76</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/BunemanO96.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Wai Yin Mok</Author>
+<Author>Yiu-Kai Ng</Author>
+<Author>David W. Embley</Author>
+</Authors>
+<Title>A Normal Form for Precisely Characterizing Redundancy in Nested Relations.</Title>
+<StartPage>77</StartPage>
+<EndPage>106</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/MokNE96.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Inderpal Singh Mumick</Author>
+<Author>Sheldon J. Finkelstein</Author>
+<Author>Hamid Pirahesh</Author>
+<Author>Raghu Ramakrishnan</Author>
+</Authors>
+<Title>Magic Conditions.</Title>
+<StartPage>107</StartPage>
+<EndPage>155</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/MumickFPR96.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>June 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Ling Liu</Author>
+<Author>Robert Meersman</Author>
+</Authors>
+<Title>The Building Blocks for Specifying Communication Behavior of Complex Objects: An Activity-Driven Approach.</Title>
+<StartPage>157</StartPage>
+<EndPage>207</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/LiuM96.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Kenneth A. Ross</Author>
+</Authors>
+<Title>Tail Recursion Elimination in Deductive Databases.</Title>
+<StartPage>208</StartPage>
+<EndPage>237</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/Ross96.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Colin Bell</Author>
+<Author>Anil Nerode</Author>
+<Author>Raymond T. Ng</Author>
+<Author>V. S. Subrahmanian</Author>
+</Authors>
+<Title>Implementing Deductive Databases by Mixed Integer Programming.</Title>
+<StartPage>238</StartPage>
+<EndPage>269</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/BellNNS96.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Sha Guo</Author>
+<Author>Wei Sun</Author>
+<Author>Mark Allen Weiss</Author>
+</Authors>
+<Title>Solving Satisfiability and Implication Problems in Database Systems.</Title>
+<StartPage>270</StartPage>
+<EndPage>293</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/GuoSW96.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>September 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Paolo Ciaccia</Author>
+<Author>Paolo Tiberio</Author>
+<Author>Pavel Zezula</Author>
+</Authors>
+<Title>Declustering of Key-Based Partitioned Signature Files.</Title>
+<StartPage>295</StartPage>
+<EndPage>338</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/CiacciaTZ96.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Debabrata Dey</Author>
+<Author>Sumit Sarkar</Author>
+</Authors>
+<Title>A Probabilistic Relational Model and Algebra.</Title>
+<StartPage>339</StartPage>
+<EndPage>369</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/DeyS96.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Shahram Ghandeharizadeh</Author>
+<Author>Richard Hull</Author>
+<Author>Dean Jacobs</Author>
+</Authors>
+<Title>Heraclitus: Elevating Deltas to be First-Class Citizens in a Database Programming Language.</Title>
+<StartPage>370</StartPage>
+<EndPage>426</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/GhandeharizadehHJ96.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>December 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Dean Kuo</Author>
+</Authors>
+<Title>Model and Verification of a Data Manager Based on ARIES.</Title>
+<StartPage>427</StartPage>
+<EndPage>479</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/Kuo96.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Witold Litwin</Author>
+<Author>Marie-Anne Neimat</Author>
+<Author>Donovan A. Schneider</Author>
+</Authors>
+<Title>LH* - A Scalable, Distributed Data Structure.</Title>
+<StartPage>480</StartPage>
+<EndPage>525</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/LitwinN96.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Louiqa Raschid</Author>
+<Author>Jorge Lobo</Author>
+</Authors>
+<Title>Semantics for Update Rule Programs and Implementations in a Relational Database Management System.</Title>
+<StartPage>526</StartPage>
+<EndPage>571</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/RaschidL96.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+<VolumeEntry>
+<Volume>22</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>March 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>John S. Keen</Author>
+<Author>William J. Dally</Author>
+</Authors>
+<Title>Extended Ehemeral Logging: Log Storage Management for Applications with Long Lived Transactions.</Title>
+<StartPage>1</StartPage>
+<EndPage>42</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/Keen97.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Cesar A. Galindo-Legaria</Author>
+<Author>Arnon Rosenthal</Author>
+</Authors>
+<Title>Outerjoin Simplification and Reordering for Query Optimization.</Title>
+<StartPage>43</StartPage>
+<EndPage>73</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/Galindo-LegariaR97.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Randal J. Peters</Author>
+<Author>M. Tamer Ozsu</Author>
+</Authors>
+<Title>An Axiomatic Model of Dynamic Schema Evolution in Objectbase Systems.</Title>
+<StartPage>75</StartPage>
+<EndPage>114</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/PetersO97.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>June 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Xiaoyang Sean Wang</Author>
+<Author>Claudio Bettini</Author>
+<Author>Alexander Brodsky</Author>
+<Author>Sushil Jajodia</Author>
+</Authors>
+<Title>Logical Design for Temporal Databases with Multiple Granularities.</Title>
+<StartPage>115</StartPage>
+<EndPage>170</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/WangBBJ97.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>James Clifford</Author>
+<Author>Curtis E. Dyreson</Author>
+<Author>Tomas Isakowitz</Author>
+<Author>Christian S. Jensen</Author>
+<Author>Richard T. Snodgrass</Author>
+</Authors>
+<Title>On the Semantics of ``Now'' in Databases.</Title>
+<StartPage>171</StartPage>
+<EndPage>214</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/CliffordDIJS97.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Paul Ammann</Author>
+<Author>Sushil Jajodia</Author>
+<Author>Indrakshi Ray</Author>
+</Authors>
+<Title>Applying Formal Methods to Semantic-Based Decomposition of Transactions.</Title>
+<StartPage>215</StartPage>
+<EndPage>254</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/AmmannJR97.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Ouri Wolfson</Author>
+<Author>Sushil Jajodia</Author>
+<Author>Yixiu Huang</Author>
+</Authors>
+<Title>An Adaptive Data Replication Algorithm.</Title>
+<StartPage>255</StartPage>
+<EndPage>314</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/WolfsonJH97.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>September 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Michael J. Franklin</Author>
+<Author>Michael J. Carey</Author>
+<Author>Miron Livny</Author>
+</Authors>
+<Title>Transactional Client-Server Cache Consistency: Alternatives and Performance.</Title>
+<StartPage>315</StartPage>
+<EndPage>363</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/FranklinCL97.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Thomas Eiter</Author>
+<Author>Georg Gottlob</Author>
+<Author>Heikki Mannila</Author>
+</Authors>
+<Title>Disjunctive Datalog.</Title>
+<StartPage>364</StartPage>
+<EndPage>418</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/EiterGM97.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Laks V. S. Lakshmanan</Author>
+<Author>Nicola Leone</Author>
+<Author>Robert Ross</Author>
+<Author>V. S. Subrahmanian</Author>
+</Authors>
+<Title>ProbView: A Flexible Probabilistic Database System.</Title>
+<StartPage>419</StartPage>
+<EndPage>469</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/LakshmananLRS97.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>December 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Veda C. Storey</Author>
+<Author>Roger H. L. Chiang</Author>
+<Author>Debabrata Dey</Author>
+<Author>Robert C. Goldstein</Author>
+<Author>Shankar Sundaresan</Author>
+</Authors>
+<Title>Database Design with Common Sense Business Reasoning and Learning.</Title>
+<StartPage>471</StartPage>
+<EndPage>512</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/StoreyCDGS97.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Zahir Tari</Author>
+<Author>John Stokes</Author>
+<Author>Stefano Spaccapietra</Author>
+</Authors>
+<Title>Object Normal Forms and Dependency Constraints for Object-Oriented Schemata.</Title>
+<StartPage>513</StartPage>
+<EndPage>569</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/TariSS97.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Markos Zaharioudakis</Author>
+<Author>Michael J. Carey</Author>
+<Author>Michael J. Franklin</Author>
+</Authors>
+<Title>Adaptive, Fine-Grained Sharing in a Client-Server OODBMS: A Callback-Based Approach.</Title>
+<StartPage>570</StartPage>
+<EndPage>627</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/ZaharioudakisCF97.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+<VolumeEntry>
+<Volume>23</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>March 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Curtis E. Dyreson</Author>
+<Author>Richard T. Snodgrass</Author>
+</Authors>
+<Title>Supporting Valid-Time Indeterminacy.</Title>
+<StartPage>1</StartPage>
+<EndPage>57</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/DyresonS98.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Peter Z. Revesz</Author>
+</Authors>
+<Title>Safe Query Languages for Constraint Databases.</Title>
+<StartPage>58</StartPage>
+<EndPage>99</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/Revesz98.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Alexei P. Stolboushkin</Author>
+<Author>Michael A. Taitslin</Author>
+</Authors>
+<Title>Safe Stratified Datalog with Integer Order Does Not Have Syntax.</Title>
+<StartPage>100</StartPage>
+<EndPage>109</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/StolboushkinT98.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>June 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Joseph M. Hellerstein</Author>
+</Authors>
+<Title>Optimization Techniques for Queries with Expensive Methods.</Title>
+<StartPage>113</StartPage>
+<EndPage>157</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/Hellerstein98.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Xiangning Liu</Author>
+<Author>Abdelsalam Helal</Author>
+<Author>Weimin Du</Author>
+</Authors>
+<Title>Multiview Access Protocols for Large-Scale Replication.</Title>
+<StartPage>158</StartPage>
+<EndPage>198</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/LiuHD98.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Sharad Mehrotra</Author>
+<Author>Rajeev Rastogi</Author>
+<Author>Henry F. Korth</Author>
+<Author>Abraham Silberschatz</Author>
+</Authors>
+<Title>Ensuring Consistency in Multidatabases by Preserving Two-Level Serializability.</Title>
+<StartPage>199</StartPage>
+<EndPage>230</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/MehrotraRKS98.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>September 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Elisa Bertino</Author>
+<Author>Claudio Bettini</Author>
+<Author>Elena Ferrari</Author>
+<Author>Pierangela Samarati</Author>
+</Authors>
+<Title>An Access Control Model Supporting Periodicity Constraints and Temporal Reasoning.</Title>
+<StartPage>231</StartPage>
+<EndPage>285</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/BertinoBFS98.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Silvana Castano</Author>
+<Author>Valeria De Antonellis</Author>
+<Author>Mariagrazia Fugini</Author>
+<Author>Barbara Pernici</Author>
+</Authors>
+<Title>Conceptual Schema Analysis: Techniques and Applications.</Title>
+<StartPage>286</StartPage>
+<EndPage>332</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/CastanoAFP98.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Anna Formica</Author>
+<Author>Hans Dietmar Groger</Author>
+<Author>Michele Missikoff</Author>
+</Authors>
+<Title>An Efficient Method for Checking Object-Oriented Database Schema Correctness.</Title>
+<StartPage>333</StartPage>
+<EndPage>369</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/FormicaGM98.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>December 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>David Konopnicki</Author>
+<Author>Oded Shmueli</Author>
+</Authors>
+<Title>Information Gathering in the World-Wide Web: The W3QL Query Language and the W3QS System.</Title>
+<StartPage>369</StartPage>
+<EndPage>410</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/KonopnickiS98.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>A. Prasad Sistla</Author>
+<Author>Ouri Wolfson</Author>
+<Author>Yelena Yesha</Author>
+<Author>Robert H. Sloan</Author>
+</Authors>
+<Title>Towards a Theory of Cost Management for Digital Libraries and Electronic Commerce.</Title>
+<StartPage>411</StartPage>
+<EndPage>452</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/SistlaWYS98.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Justin Zobel</Author>
+<Author>Alistair Moffat</Author>
+<Author>Kotagiri Ramamohanarao</Author>
+</Authors>
+<Title>Inverted Files Versus Signature Files for Text Indexing.</Title>
+<StartPage>453</StartPage>
+<EndPage>490</EndPage>
+<ElectronicEdition>http://www.acm.org/sigmod/dblp/db/journals/tods/ZobelMR98.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+</Volumes>
+</Journal>
+<Journal>
+<JournalName>ACM Transactions on Software Engineering and Methodology (TOSEM)</JournalName>
+<Volumes>
+<VolumeEntry>
+<Volume>4</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>January 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>David Binkley</Author>
+<Author>Susan Horwitz</Author>
+<Author>Thomas W. Reps</Author>
+</Authors>
+<Title>Program Integration for Languages with Procedure Calls.</Title>
+<StartPage>3</StartPage>
+<EndPage>35</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-1/p3-binkley/p3-binkley.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>William E. Howden</Author>
+<Author>Yudong Huang</Author>
+</Authors>
+<Title>Software Trustability Analysis.</Title>
+<StartPage>36</StartPage>
+<EndPage>64</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-1/p36-howden/p36-howden.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Michal Young</Author>
+<Author>Richard N. Taylor</Author>
+<Author>David L. Levine</Author>
+<Author>Kari A. Nies</Author>
+<Author>Debra Brodbeck</Author>
+</Authors>
+<Title>A Concurrency Analysis Tool Suite for Ada Programs: Rational, Design, and Preliminary Experience.</Title>
+<StartPage>65</StartPage>
+<EndPage>106</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-1/p65-young/p65-young.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>April 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Daniel Jackson</Author>
+</Authors>
+<Title>Aspect: Detecting Bugs with Abstract Dependences.</Title>
+<StartPage>109</StartPage>
+<EndPage>145</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-2/p109-jackson/p109-jackson.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Amy Moormann Zaremski</Author>
+<Author>Jeannette M. Wing</Author>
+</Authors>
+<Title>Signature Matching: A Tool for Using Software Libraries.</Title>
+<StartPage>146</StartPage>
+<EndPage>170</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-2/p146-zaremski/p146-zaremski.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Mauro Pezze</Author>
+<Author>Richard N. Taylor</Author>
+<Author>Michal Young</Author>
+</Authors>
+<Title>Graph Models for Reachability of Concurrent Programs.</Title>
+<StartPage>171</StartPage>
+<EndPage>213</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-2/p171-pezze/p171-pezze.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Bevin R. Brett</Author>
+</Authors>
+<Title>Comments on "The Cost of Selective Recompilation and Environment Processing".</Title>
+<StartPage>214</StartPage>
+<EndPage>215</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-2/p214-brett/p214-brett.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Rolf Adams</Author>
+<Author>Walter F. Tichy</Author>
+<Author>Annette Weinert</Author>
+</Authors>
+<Title>Authors' Response.</Title>
+<StartPage>217</StartPage>
+<EndPage>219</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-2/p217-tichy/p217-tichy.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>July 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Stanley M. Sutton Jr.</Author>
+<Author>Dennis Heimbigner</Author>
+<Author>Leon J. Osterweil</Author>
+</Authors>
+<Title>APPL/A: A Language for Software Process Programming.</Title>
+<StartPage>221</StartPage>
+<EndPage>286</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-3/p221-sutton/p221-sutton.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>H. Rebecca Callison</Author>
+</Authors>
+<Title>A Time-Sensitive Object Model for Real-Time Systems.</Title>
+<StartPage>287</StartPage>
+<EndPage>317</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-3/p287-callison/p287-callison.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>October 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Gregory D. Abowd</Author>
+<Author>Robert B. Allen</Author>
+<Author>David Garlan</Author>
+</Authors>
+<Title>Formalizing Style to Understand Descriptions of Software Architecture.</Title>
+<StartPage>319</StartPage>
+<EndPage>364</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-4/p319-abowd/p319-abowd.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Daniel Jackson</Author>
+</Authors>
+<Title>Structuring Z Specifications with Views.</Title>
+<StartPage>365</StartPage>
+<EndPage>389</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1995-4-4/p365-jackson/p365-jackson.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+<VolumeEntry>
+<Volume>5</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>January 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Mark van den Brand</Author>
+<Author>Eelco Visser</Author>
+</Authors>
+<Title>Generation of Formatters for Context-Free Languages.</Title>
+<StartPage>1</StartPage>
+<EndPage>41</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-1/p1-van_den_brand/p1-van_den_brand.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Premkumar T. Devanbu</Author>
+<Author>David S. Rosenblum</Author>
+<Author>Alexander L. Wolf</Author>
+</Authors>
+<Title>Generating Testing and Analysis Tools with Aria.</Title>
+<StartPage>42</StartPage>
+<EndPage>62</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-1/p42-devanbu/p42-devanbu.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Roger Ferguson</Author>
+<Author>Bogdan Korel</Author>
+</Authors>
+<Title>The Chaining Approach for Software Test Data Generation.</Title>
+<StartPage>63</StartPage>
+<EndPage>86</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-1/p63-ferguson/p63-ferguson.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>April 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Elaine J. Weyuker</Author>
+</Authors>
+<Title>Using Failure Cost Information for Testing and Reliability Assessment.</Title>
+<StartPage>87</StartPage>
+<EndPage>98</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-2/p87-weyuker/p87-weyuker.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>A. Jefferson Offutt</Author>
+<Author>Ammei Lee</Author>
+<Author>Gregg Rothermel</Author>
+<Author>Roland H. Untch</Author>
+<Author>Christian Zapf</Author>
+</Authors>
+<Title>An Experimental Determination of Sufficient Mutant Operators.</Title>
+<StartPage>99</StartPage>
+<EndPage>118</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-2/p99-offutt/p99-offutt.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Francesco Bergadano</Author>
+<Author>Daniele Gunetti</Author>
+</Authors>
+<Title>Testing by Means of Inductive Program Learning.</Title>
+<StartPage>119</StartPage>
+<EndPage>145</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-2/p119-bergadano/p119-bergadano.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Gregor Snelting</Author>
+</Authors>
+<Title>Reengineering of Configurations Based on Mathematical Concept Analysis.</Title>
+<StartPage>146</StartPage>
+<EndPage>189</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-2/p146-snelting/p146-snelting.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>July 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Gianpaolo Cugola</Author>
+<Author>Elisabetta Di Nitto</Author>
+<Author>Alfonso Fuggetta</Author>
+<Author>Carlo Ghezzi</Author>
+</Authors>
+<Title>A Framework for Formalizing Inconsistencies and Deviations in Human-Centered Systems.</Title>
+<StartPage>191</StartPage>
+<EndPage>230</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-3/p191-cugola/p191-cugola.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Constance L. Heitmeyer</Author>
+<Author>Ralph D. Jeffords</Author>
+<Author>Bruce G. Labaw</Author>
+</Authors>
+<Title>Automated Consistency Checking of Requirements Specifications.</Title>
+<StartPage>231</StartPage>
+<EndPage>261</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-3/p231-heitmeyer/p231-heitmeyer.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Gail C. Murphy</Author>
+<Author>David Notkin</Author>
+</Authors>
+<Title>Lightweight Lexical Source Model Extraction.</Title>
+<StartPage>262</StartPage>
+<EndPage>292</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-3/p262-murphy/p262-murphy.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>October 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>David Harel</Author>
+<Author>Amnon Naamad</Author>
+</Authors>
+<Title>The STATEMATE Semantics of Statecharts.</Title>
+<StartPage>293</StartPage>
+<EndPage>333</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-4/p293-harel/p293-harel.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Shing-Chi Cheung</Author>
+<Author>Jeff Kramer</Author>
+</Authors>
+<Title>Context Constraints for Compositional Reachability Analysis.</Title>
+<StartPage>334</StartPage>
+<EndPage>377</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-4/p334-cheung/p334-cheung.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Daniel J. Barrett</Author>
+<Author>Lori A. Clarke</Author>
+<Author>Peri L. Tarr</Author>
+<Author>Alexander E. Wise</Author>
+</Authors>
+<Title>A Framework for Event-Based Software Integration.</Title>
+<StartPage>378</StartPage>
+<EndPage>421</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1996-5-4/p378-barrett/p378-barrett.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+<VolumeEntry>
+<Volume>6</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>January 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Pamela Zave</Author>
+<Author>Michael Jackson</Author>
+</Authors>
+<Title>Four Dark Corners of Requirements Engineering.</Title>
+<StartPage>1</StartPage>
+<EndPage>30</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-1/p31-moser/p31-moser.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Louise E. Moser</Author>
+<Author>Y. S. Ramakrishna</Author>
+<Author>G. Kutty</Author>
+<Author>P. M. Melliar-Smith</Author>
+<Author>Laura K. Dillon</Author>
+</Authors>
+<Title>A Graphical Environment for the Design of Concurrent Real-Time Systems.</Title>
+<StartPage>31</StartPage>
+<EndPage>79</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-1/p31-moser/p31-moser.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Laura K. Dillon</Author>
+</Authors>
+<Title>Task Dependence and Termination in Ada.</Title>
+<StartPage>80</StartPage>
+<EndPage>110</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-1/p80-dillon/p80-dillon.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>April 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Scott Henninger</Author>
+</Authors>
+<Title>An Evolutionary Approach to Constructing Effective Software Reuse Repositories.</Title>
+<StartPage>111</StartPage>
+<EndPage>140</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-2/p111-henninger/p111-henninger.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Premkumar T. Devanbu</Author>
+<Author>Mark A. Jones</Author>
+</Authors>
+<Title>The Use of Description Logics in KBSE Systems.</Title>
+<StartPage>141</StartPage>
+<EndPage>172</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-2/p141-devalbu/p141-devalbu.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Gregg Rothermel</Author>
+<Author>Mary Jean Harrold</Author>
+</Authors>
+<Title>A Safe, Efficient Regression Test Selection Technique.</Title>
+<StartPage>173</StartPage>
+<EndPage>210</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-2/p173-rothermel/p173-rothermel.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>July 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Robert Allen</Author>
+<Author>David Garlan</Author>
+</Authors>
+<Title>A Formal Basis for Architectural Connection.</Title>
+<StartPage>213</StartPage>
+<EndPage>249</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-3/p213-allen/p213-allen.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Gruia-Catalin Roman</Author>
+<Author>Peter J. McCann</Author>
+<Author>Jerome Y. Plun</Author>
+</Authors>
+<Title>Mobile UNITY: Reasoning and Specification in Mobile Computing.</Title>
+<StartPage>250</StartPage>
+<EndPage>282</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-3/p250-roman/p250-roman.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Vincenzo Ambriola</Author>
+<Author>Reidar Conradi</Author>
+<Author>Alfonso Fuggetta</Author>
+</Authors>
+<Title>Assessing Process-Centered Software Engineering Environments.</Title>
+<StartPage>283</StartPage>
+<EndPage>328</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-3/p283-ambriola/p283-ambriola.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Alexandre Petrenko</Author>
+</Authors>
+<Title>Technical Correspondence Comments on "A Reduced Test Suite for Protocol Conformance Testing".</Title>
+<StartPage>329</StartPage>
+<EndPage>331</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-3/p329-petrenko/p329-petrenko.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>October 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Amy Moormann Zaremski</Author>
+<Author>Jeannette M. Wing</Author>
+</Authors>
+<Title>Specification Matching of Software Components.</Title>
+<StartPage>333</StartPage>
+<EndPage>369</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-4/p333-zaremski/p333-zaremski.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Rajiv Gupta</Author>
+<Author>Mary Lou Soffa</Author>
+<Author>John Howard</Author>
+</Authors>
+<Title>Hybrid Slicing: Integrating Dynamic Information with Static Analysis.</Title>
+<StartPage>370</StartPage>
+<EndPage>397</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-4/p370-gupta/p370-gupta.pdf</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Andreas Zeller</Author>
+<Author>Gregor Snelting</Author>
+</Authors>
+<Title>Unified Versioning Through Feature Logic.</Title>
+<StartPage>398</StartPage>
+<EndPage>441</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/articles/journals/tosem/1997-6-4/p398-zeller/p398-zeller.pdf</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+<VolumeEntry>
+<Volume>7</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>January 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>John C. Doppke</Author>
+<Author>Dennis Heimbigner</Author>
+<Author>Alexander L. Wolf</Author>
+</Authors>
+<Title>Software Process Modeling and Execution Within Virtual Environments. </Title>
+<StartPage>1</StartPage>
+<EndPage>40</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-1/p1-doppke/</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Adam A. Porter</Author>
+<Author>Harvey P. Siy</Author>
+<Author>Audris Mockus</Author>
+<Author>Lawrence G. Votta</Author>
+</Authors>
+<Title>Understanding the Sources of Variation in Software Inspections. </Title>
+<StartPage>41</StartPage>
+<EndPage>79</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-1/p41-porter/</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Luciano Baresi</Author>
+<Author>Mauro Pezze</Author>
+</Authors>
+<Title>Toward Formalizing Structured Analysis. </Title>
+<StartPage>80</StartPage>
+<EndPage>107</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-1/p80-baresi/</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>April 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Robert W. Bowdidge</Author>
+<Author>William G. Griswold</Author>
+</Authors>
+<Title>Supporting the Restructuring of Data Abstractions Through Manipulation of a Program Visualization. </Title>
+<StartPage>109</StartPage>
+<EndPage>157</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-2/p109-bowdidge/</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Gail C. Murphy</Author>
+<Author>David Notkin</Author>
+<Author>William G. Griswold</Author>
+<Author>Erica S.-C. Lan</Author>
+</Authors>
+<Title>An Empirical Study of Static Call Graph Extractors. </Title>
+<StartPage>158</StartPage>
+<EndPage>191</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-2/p158-murphy/</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>James J. Hunt</Author>
+<Author>Kiem-Phong Vo</Author>
+<Author>Walter F. Tichy</Author>
+</Authors>
+<Title>Delta Algorithms: An Empirical Analysis. </Title>
+<StartPage>192</StartPage>
+<EndPage>214</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-2/p192-hunt/</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>July 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Jonathan E. Cook</Author>
+<Author>Alexander L. Wolf</Author>
+</Authors>
+<Title>Discovering Models of Software Processes from Event-Based Data. </Title>
+<StartPage>215</StartPage>
+<EndPage>249</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-3/p215-cook/</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Huo Yan Chen</Author>
+<Author>T. H. Tse</Author>
+<Author>F. T. Chan</Author>
+<Author>T. Y. Chen</Author>
+</Authors>
+<Title>In Black and White: An Integrated Approach to Class-Level Testing of Object-Oriented Programs. </Title>
+<StartPage>250</StartPage>
+<EndPage>295</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-3/p250-chen/</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Judith Crow</Author>
+<Author>Ben Di Vito</Author>
+</Authors>
+<Title>Formalizing Space Shuttle Software Requirements: Four Case Studies. </Title>
+<StartPage>296</StartPage>
+<EndPage>332</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-3/p296-crow/</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Robert Allen</Author>
+<Author>David Garlan</Author>
+</Authors>
+<Title>Errata: A Formal Basis for Architectural Connection. </Title>
+<StartPage>333</StartPage>
+<EndPage>334</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-3/p333-allen/</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>October 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Anthony Hunter</Author>
+<Author>Bashar Nuseibeh</Author>
+</Authors>
+<Title>Managing Inconsistent Specifications: Reasoning, Analysis, and Action. </Title>
+<StartPage>335</StartPage>
+<EndPage>367</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-4/p335-hunter/</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Maria Letizia Jaccheri</Author>
+<Author>Gian Pietro Picco</Author>
+<Author>Patricia Lago</Author>
+</Authors>
+<Title>Eliciting software Process Models with the E3 Language. </Title>
+<StartPage>368</StartPage>
+<EndPage>410</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-4/p368-jaccheri/</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Alfonso Fuggetta</Author>
+<Author>Luigi Lavazza</Author>
+<Author>Sandro Morasca</Author>
+<Author>Stefano Cinti</Author>
+<Author>Giandomenico Oldano</Author>
+<Author>Elena Orazi</Author>
+</Authors>
+<Title>Applying GQM in an Industrial Software Factory. </Title>
+<StartPage>411</StartPage>
+<EndPage>448</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-4/p411-fuggetta/</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>James J. Hunt</Author>
+<Author>Walter F. Tichy</Author>
+</Authors>
+<Title>Addendum to "Delta Algorithms: An Empirical Analysis". </Title>
+<StartPage>449</StartPage>
+<EndPage>450</EndPage>
+<ElectronicEdition>http://www.acm.org/pubs/citations/journals/tosem/1998-7-4/p449-hunt/</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+</Volumes>
+</Journal>
+<Journal>
+<JournalName>The VLDB Journal</JournalName>
+<Volumes>
+<VolumeEntry>
+<Volume>4</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>January 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Panos Constantopoulos</Author>
+<Author>Matthias Jarke</Author>
+<Author>John Mylopoulos</Author>
+<Author>Yannis Vassiliou</Author>
+</Authors>
+<Title>The Software Information Base: A Server for Reuse.</Title>
+<StartPage>1</StartPage>
+<EndPage>43</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/ConstantopoulosJMV95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Chris Clifton</Author>
+<Author>Hector Garcia-Molina</Author>
+<Author>David Bloom</Author>
+</Authors>
+<Title>HyperFile: A Data and Query Model for Documents.</Title>
+<StartPage>45</StartPage>
+<EndPage>86</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/CliftonGB95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Divyakant Agrawal</Author>
+<Author>Amr El Abbadi</Author>
+<Author>Richard Jeffers</Author>
+<Author>Lijing Lin</Author>
+</Authors>
+<Title>Ordered Shared Locks for Real-Time Databases.</Title>
+<StartPage>87</StartPage>
+<EndPage>126</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/AgrawalAJL95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Asit Dan</Author>
+<Author>Philip S. Yu</Author>
+<Author>Jen-Yao Chung</Author>
+</Authors>
+<Title>Characterization of Database Access Pattern for Analytic Prediction of Buffer Hit Probability.</Title>
+<StartPage>127</StartPage>
+<EndPage>154</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/DanYC95.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>April 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Joan Peckham</Author>
+<Author>Bonnie MacKellar</Author>
+<Author>Michael Doherty</Author>
+</Authors>
+<Title>Data Model for Extensible Support of Explicit Relationships in Design Databases.</Title>
+<StartPage>157</StartPage>
+<EndPage>191</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/PeckhamMD95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Ernest Teniente</Author>
+<Author>Antoni Olive</Author>
+</Authors>
+<Title>Updating Knowledge Bases While Maintaining Their Consistency.</Title>
+<StartPage>193</StartPage>
+<EndPage>241</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/TenienteO95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Ralf Hartmut Guting</Author>
+<Author>Markus Schneider</Author>
+</Authors>
+<Title>Realm-Based Spatial Data Types: The ROSE Algebra.</Title>
+<StartPage>243</StartPage>
+<EndPage>286</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/GutingS95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Marjorie Templeton</Author>
+<Author>Herbert Henley</Author>
+<Author>Edward Maros</Author>
+<Author>Darrel J. Van Buer</Author>
+</Authors>
+<Title>InterViso: Dealing With the Complexity of Federated Database Access.</Title>
+<StartPage>287</StartPage>
+<EndPage>317</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/TempletonHMB95.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>July 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Malcolm P. Atkinson</Author>
+<Author>Ronald Morrison</Author>
+</Authors>
+<Title>Orthogonally Persistent Object Systems.</Title>
+<StartPage>319</StartPage>
+<EndPage>401</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/AtkinsonM95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Antonio Albano</Author>
+<Author>Giorgio Ghelli</Author>
+<Author>Renzo Orsini</Author>
+</Authors>
+<Title>Fibonacci: A Programming Language for Object Databases.</Title>
+<StartPage>403</StartPage>
+<EndPage>444</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/AlbanoGO95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>M. Tamer Ozsu</Author>
+<Author>Randal J. Peters</Author>
+<Author>Duane Szafron</Author>
+<Author>Boman Irani</Author>
+<Author>Anna Lipka</Author>
+<Author>Adriana Munoz</Author>
+</Authors>
+<Title>TIGUKAT: A Uniform Behavioral Objectbase Management System.</Title>
+<StartPage>445</StartPage>
+<EndPage>492</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/OzsuPSILM95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Veronique Benzaken</Author>
+<Author>Anne Doucet</Author>
+</Authors>
+<Title>Themis: A Database Programming Language Handling Integrity Constraints.</Title>
+<StartPage>493</StartPage>
+<EndPage>517</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/BenzakenD95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Alfons Kemper</Author>
+<Author>Donald Kossmann</Author>
+</Authors>
+<Title>Adaptable Pointer Swizzling Strategies in Object Bases: Design, Realization, and Quantitative Analysis.</Title>
+<StartPage>519</StartPage>
+<EndPage>566</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/KemperK95.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>October 1995</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Daniel Barbara</Author>
+<Author>Tomasz Imielinski</Author>
+</Authors>
+<Title>Sleepers and Workaholics: Caching Strategies in Mobile Environments.</Title>
+<StartPage>567</StartPage>
+<EndPage>602</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/BarbaraI95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Chris Nyberg</Author>
+<Author>Tom Barclay</Author>
+<Author>Zarka Cvetanovic</Author>
+<Author>Jim Gray</Author>
+<Author>David B. Lomet</Author>
+</Authors>
+<Title>AlphaSort: A Cache-Sensitive Parallel External Sort.</Title>
+<StartPage>603</StartPage>
+<EndPage>627</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/NybergBCGL95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Seth J. White</Author>
+<Author>David J. DeWitt</Author>
+</Authors>
+<Title>QuickStore: A High Performance Mapped Object Store.</Title>
+<StartPage>629</StartPage>
+<EndPage>673</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/WhiteD95.html</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Arun N. Swami</Author>
+<Author>K. Bernhard Schiefer</Author>
+</Authors>
+<Title>Estimating Page Fetches for Index Scans with Finite LRU Buffers.</Title>
+<StartPage>675</StartPage>
+<EndPage>701</EndPage>
+<ElectronicEdition>http://www.acm.org/sigs/sigmod/dblp/db/journals/vldb/SwamiS95.html</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+<VolumeEntry>
+<Volume>5</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>January 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>David J. DeWitt</Author>
+<Author>Jeffrey F. Naughton</Author>
+<Author>John C. Shafer</Author>
+<Author>Shivakumar Venkataraman</Author>
+</Authors>
+<Title>ParSets for Parallelising OODBMS Traversals: Implementation and Performance.</Title>
+<StartPage>3</StartPage>
+<EndPage>18</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005001/60050003.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Rajendran M. Sivasankaran</Author>
+<Author>John A. Stankovic</Author>
+<Author>Donald F. Towsley</Author>
+<Author>Bhaskar Purimetla</Author>
+<Author>Krithi Ramamritham</Author>
+</Authors>
+<Title>Priority Assignment in Real-Time Active Databases (1).</Title>
+<StartPage>19</StartPage>
+<EndPage>34</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005001/60050019.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Arthur M. Keller</Author>
+<Author>Julie Basu</Author>
+</Authors>
+<Title>A Predicate-based Caching Scheme for Client-Server Database Architectures.</Title>
+<StartPage>35</StartPage>
+<EndPage>47</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005001/60050035.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Michael Stonebraker</Author>
+<Author>Paul M. Aoki</Author>
+<Author>Witold Litwin</Author>
+<Author>Avi Pfeffer</Author>
+<Author>Adam Sah</Author>
+<Author>Jeff Sidell</Author>
+<Author>Carl Staelin</Author>
+<Author>Andrew Yu</Author>
+</Authors>
+<Title>Mariposa: A Wide-Area Distributed Database System.</Title>
+<StartPage>48</StartPage>
+<EndPage>63</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005001/60050048.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Evan P. Harris</Author>
+<Author>Kotagiri Ramamohanarao</Author>
+</Authors>
+<Title>Join Algorithm Costs Revisited.</Title>
+<StartPage>64</StartPage>
+<EndPage>84</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005001/60050064.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Krithi Ramamritham</Author>
+<Author>Panos K. Chrysanthis</Author>
+</Authors>
+<Title>A Taxonomy of Correctness Criteria in Database Applications.</Title>
+<StartPage>85</StartPage>
+<EndPage>97</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005001/60050085.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>April 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Odysseas G. Tsatalos</Author>
+<Author>Marvin H. Solomon</Author>
+<Author>Yannis E. Ioannidis</Author>
+</Authors>
+<Title>The GMAP: A Versatile Tool for Physical Data Independence.</Title>
+<StartPage>101</StartPage>
+<EndPage>118</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005002/60050101.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Alexandra Poulovassilis</Author>
+<Author>Carol Small</Author>
+</Authors>
+<Title>Investigation of Query Optimisation Techniques for Database Programming Languages.</Title>
+<StartPage>119</StartPage>
+<EndPage>132</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005002/60050119.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Eric Amiel</Author>
+<Author>Marie-Jo Bellosta</Author>
+<Author>Eric Dujardin</Author>
+<Author>Eric Simon</Author>
+</Authors>
+<Title>Type-safe Relaxing of Schema Consistency Rules for Flexible Modeling in OODBMS.</Title>
+<StartPage>133</StartPage>
+<EndPage>155</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005002/60050133.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Doug Fang</Author>
+<Author>Shahram Ghandeharizadeh</Author>
+</Authors>
+<Title>An Experimental System for Object-Based Sharing in Federated Databases.</Title>
+<StartPage>151</StartPage>
+<EndPage>165</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005002/60050151.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>July 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Debabrata Dey</Author>
+<Author>Terence M. Barron</Author>
+<Author>Veda C. Storey</Author>
+</Authors>
+<Title>A Complete Temporal Relational Algebra.</Title>
+<StartPage>167</StartPage>
+<EndPage>180</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005003/60050167.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Yuh-Ming Shyy</Author>
+<Author>Javier Arroyo</Author>
+<Author>Stanley Y. W. Su</Author>
+<Author>Herman Lam</Author>
+</Authors>
+<Title>The Design and Implementation of K: A High-Level Knowledge-Base Programming Language of OSAM*.KBMS.</Title>
+<StartPage>181</StartPage>
+<EndPage>195</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005003/60050181.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Theo Harder</Author>
+<Author>Joachim Reinert</Author>
+</Authors>
+<Title>Access Path Support for Referential Integrity in SQL2.</Title>
+<StartPage>196</StartPage>
+<EndPage>214</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005003/60050196.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Beng Chin Ooi</Author>
+<Author>Jiawei Han</Author>
+<Author>Hongjun Lu</Author>
+<Author>Kian-Lee Tan</Author>
+</Authors>
+<Title>Index Nesting - An Efficient Approach to Indexing in Object-Oriented Databases.</Title>
+<StartPage>215</StartPage>
+<EndPage>228</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005003/60050215.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>December 1996</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Gennady Antoshenkov</Author>
+<Author>Mohamed Ziauddin</Author>
+</Authors>
+<Title>Query Processing and Optimization in Oracle Rdb.</Title>
+<StartPage>229</StartPage>
+<EndPage>237</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005004/60050229.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>John Mylopoulos</Author>
+<Author>Vinay K. Chaudhri</Author>
+<Author>Dimitris Plexousakis</Author>
+<Author>Adel Shrufi</Author>
+<Author>Thodoros Topaloglou</Author>
+</Authors>
+<Title>Building Knowledge Base Management Systems.</Title>
+<StartPage>238</StartPage>
+<EndPage>263</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005004/60050238.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Bruno Becker</Author>
+<Author>Stephan Gschwind</Author>
+<Author>Thomas Ohler</Author>
+<Author>Bernhard Seeger</Author>
+<Author>Peter Widmayer</Author>
+</Authors>
+<Title>An Asymptotically Optimal Multiversion B-Tree.</Title>
+<StartPage>264</StartPage>
+<EndPage>275</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005004/60050264.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Vipul Kashyap</Author>
+<Author>Amit P. Sheth</Author>
+</Authors>
+<Title>Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach.</Title>
+<StartPage>276</StartPage>
+<EndPage>304</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/6005004/60050276.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+<VolumeEntry>
+<Volume>6</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>January 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Georgios Evangelidis</Author>
+<Author>David B. Lomet</Author>
+<Author>Betty Salzberg</Author>
+</Authors>
+<Title>The hB-Pi-Tree: A Multi-Attribute Index Supporting Concurrency, Recovery and Node Consolidation.</Title>
+<StartPage>1</StartPage>
+<EndPage>25</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006001/70060001.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Gennady Antoshenkov</Author>
+</Authors>
+<Title>Dictionary-Based Order-Preserving String Compression.</Title>
+<StartPage>26</StartPage>
+<EndPage>39</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006001/70060026.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Vigyan Singhal</Author>
+<Author>Alan Jay Smith</Author>
+</Authors>
+<Title>Analysis of Locking Behavior in Three Real Database Systems.</Title>
+<StartPage>40</StartPage>
+<EndPage>52</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006001/70060040.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Manish Mehta</Author>
+<Author>David J. DeWitt</Author>
+</Authors>
+<Title>Data Placement in Shared-Nothing Parallel Database Systems.</Title>
+<StartPage>53</StartPage>
+<EndPage>72</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006001/70060053.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>May 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Mike P. Papazoglou</Author>
+<Author>Bernd J. Kramer</Author>
+</Authors>
+<Title>A Database Model for Object Dynamics.</Title>
+<StartPage>73</StartPage>
+<EndPage>96</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006002/70060073.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Tiziana Catarci</Author>
+<Author>Giuseppe Santucci</Author>
+<Author>John Cardiff</Author>
+</Authors>
+<Title>Graphical Interaction with Heterogeneous Databases.</Title>
+<StartPage>97</StartPage>
+<EndPage>120</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006002/70060097.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Ming-Syan Chen</Author>
+<Author>Hui-I Hsiao</Author>
+<Author>Philip S. Yu</Author>
+</Authors>
+<Title>On Applying Hash Filters to Improving the Execution of Multi-Join Queries.</Title>
+<StartPage>121</StartPage>
+<EndPage>131</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006002/70060121.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Yannis E. Ioannidis</Author>
+<Author>Raymond T. Ng</Author>
+<Author>Kyuseok Shim</Author>
+<Author>Timos K. Sellis</Author>
+</Authors>
+<Title>Parametric Query Optimization.</Title>
+<StartPage>132</StartPage>
+<EndPage>151</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006002/70060132.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Sharad Mehrotra</Author>
+<Author>Henry F. Korth</Author>
+<Author>Abraham Silberschatz</Author>
+</Authors>
+<Title>Concurrency Control in Hierarchical Multidatabase Systems.</Title>
+<StartPage>152</StartPage>
+<EndPage>172</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006002/70060152.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>August 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Edward E. Cobb</Author>
+</Authors>
+<Title>The Impact of Technology on Commercial Transaction Processing.</Title>
+<StartPage>173</StartPage>
+<EndPage>190</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006003/70060173.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Michael Steinbrunn</Author>
+<Author>Guido Moerkotte</Author>
+<Author>Alfons Kemper</Author>
+</Authors>
+<Title>Heuristic and Randomized Optimization for the Join Ordering Problem.</Title>
+<StartPage>191</StartPage>
+<EndPage>208</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006003/70060191.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Euthimios Panagos</Author>
+<Author>Alexandros Biliris</Author>
+</Authors>
+<Title>Synchronization and Recovery in a Client-Server Storage System.</Title>
+<StartPage>209</StartPage>
+<EndPage>223</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006003/70060209.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>David B. Lomet</Author>
+<Author>Betty Salzberg</Author>
+</Authors>
+<Title>Concurrency and Recovery for Index Trees.</Title>
+<StartPage>224</StartPage>
+<EndPage>240</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006003/70060224.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Laura M. Haas</Author>
+<Author>Michael J. Carey</Author>
+<Author>Miron Livny</Author>
+<Author>Amit Shukla</Author>
+</Authors>
+<Title>Seeking the Truth About ad hoc Join Costs.</Title>
+<StartPage>241</StartPage>
+<EndPage>256</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006003/70060241.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>November 1997</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Gustav Fahl</Author>
+<Author>Tore Risch</Author>
+</Authors>
+<Title>Query Processing Over Object Views of Relational Data.</Title>
+<StartPage>261</StartPage>
+<EndPage>281</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006004/70060261.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Oscar Diaz</Author>
+<Author>Arturo Jaime</Author>
+</Authors>
+<Title>EXACT: An Extensible Approach to Active Object-Oriented Databases.</Title>
+<StartPage>282</StartPage>
+<EndPage>295</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006004/70060282.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Klemens Bohm</Author>
+<Author>Karl Aberer</Author>
+<Author>Erich J. Neuhold</Author>
+<Author>Xiaoya Yang</Author>
+</Authors>
+<Title>Structured Document Storage and Refined Declarative and Navigational Access Mechanisms in HyperStorM.</Title>
+<StartPage>296</StartPage>
+<EndPage>311</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006004/70060296.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Thomas A. Muck</Author>
+<Author>Martin L. Polaschek</Author>
+</Authors>
+<Title>A Configrable Type Hierarchy Index for OODB.</Title>
+<StartPage>312</StartPage>
+<EndPage>332</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006004/70060312.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Stefan Berchtold</Author>
+<Author>Daniel A. Keim</Author>
+<Author>Hans-Peter Kriegel</Author>
+</Authors>
+<Title>Using Extended Feature Objects for Partial Similarity Retrieval.</Title>
+<StartPage>333</StartPage>
+<EndPage>348</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/7006004/70060333.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+<VolumeEntry>
+<Volume>7</Volume>
+<Numbers>
+<NumberEntry>
+<Number>1</Number>
+<Date>February 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Jia Liang Han</Author>
+</Authors>
+<Title>Optimizing Relational Queries in Connection Hypergraphs: Nested Queries, Views, and Binding Propagations.</Title>
+<StartPage>1</StartPage>
+<EndPage>11</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007001/80070001.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Eric N. Hanson</Author>
+<Author>I.-Cheng Chen</Author>
+<Author>Roxana Dastur</Author>
+<Author>Kurt Engel</Author>
+<Author>Vijay Ramaswamy</Author>
+<Author>Wendy Tan</Author>
+<Author>Chun Xu</Author>
+</Authors>
+<Title>A Flexible and Recoverable Client/Server Database Event Notification System.</Title>
+<StartPage>12</StartPage>
+<EndPage>24</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007001/80070012.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Ashish Mehta</Author>
+<Author>James Geller</Author>
+<Author>Yehoshua Perl</Author>
+<Author>Erich J. Neuhold</Author>
+</Authors>
+<Title>The OODB Path-Method Generator (PMG) Using Access Weights and Precomputed Access Relevance.</Title>
+<StartPage>25</StartPage>
+<EndPage>47</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007001/80070025.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Peter Scheuermann</Author>
+<Author>Gerhard Weikum</Author>
+<Author>Peter Zabback</Author>
+</Authors>
+<Title>Data Partitioning and Load Balancing in Parallel Disk Systems.</Title>
+<StartPage>48</StartPage>
+<EndPage>66</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007001/80070048.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>2</Number>
+<Date>May 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Naci Ishakbeyoglu</Author>
+<Author>Z. Meral Ozsoyoglu</Author>
+</Authors>
+<Title>Maintenance of Implication Integrity Constraints Under Updates to Constraints.</Title>
+<StartPage>67</StartPage>
+<EndPage>78</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007002/80070067.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Stefan Desloch</Author>
+<Author>Theo Harder</Author>
+<Author>>Nelson Mendonca Mattos</Author>
+<Author>Bernhard Mitschang</Author>
+<Author>Joachim Thomas</Author>
+</Authors>
+<Title>Advanced Data Processing in KRISYS: Modeling Concepts, Implementation Techniques, and Client/Server Issues.</Title>
+<StartPage>79</StartPage>
+<EndPage>95</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007002/80070079.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Serge Abiteboul</Author>
+<Author>Sophie Cluet</Author>
+<Author>Tova Milo</Author>
+</Authors>
+<Title>A Logical View of Structured Files.</Title>
+<StartPage>96</StartPage>
+<EndPage>114</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007002/80070096.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Beng Chin Ooi</Author>
+<Author>Kian-Lee Tan</Author>
+<Author>Tat-Seng Chua</Author>
+<Author>Wynne Hsu</Author>
+</Authors>
+<Title>Fast Image Retrieval Using Color-Spatial Information.</Title>
+<StartPage>115</StartPage>
+<EndPage>128</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007002/80070115.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>3</Number>
+<Date>August 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>Praveen Seshadri</Author>
+</Authors>
+<Title>Enhanced Abstract Data Types in Object-Relational Databases.</Title>
+<StartPage>130</StartPage>
+<EndPage>140</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007003/80070130.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Achim Kraiss</Author>
+<Author>Gerhard Weikum</Author>
+</Authors>
+<Title>Integrated Document Caching and Prefetching in Storage Hierarchies Based on Markov-Chain Predictions.</Title>
+<StartPage>141</StartPage>
+<EndPage>162</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007003/80070141.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Soumen Chakrabarti</Author>
+<Author>Byron Dom</Author>
+<Author>Rakesh Agrawal</Author>
+<Author>Prabhakar Raghavan</Author>
+</Authors>
+<Title>Scalable Feature Selection, Classification and Signature Generation for Organizing Large Text Databases into Hierarchical Topic Taxonomies.</Title>
+<StartPage>163</StartPage>
+<EndPage>178</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007003/80070163.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Prasan Roy</Author>
+<Author>S. Seshadri</Author>
+<Author>Abraham Silberschatz</Author>
+<Author>S. Sudarshan</Author>
+<Author>S. Ashwin</Author>
+</Authors>
+<Title>Garbage Collection in Object-Oriented Databases Using Transactional Cyclic Reference Counting.</Title>
+<StartPage>179</StartPage>
+<EndPage>193</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007003/80070179.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Wee Teck Ng</Author>
+<Author>Peter M. Chen</Author>
+</Authors>
+<Title>Integrating Reliable Memory in Databases.</Title>
+<StartPage>194</StartPage>
+<EndPage>204</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007003/80070194.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+<NumberEntry>
+<Number>4</Number>
+<Date>December 1998</Date>
+<Articles>
+<Article>
+<Authors>
+<Author>M. Tamer Ozsu</Author>
+<Author>Stavros Christodoulakis</Author>
+</Authors>
+<Title>Introduction (Special Issue on Multimedia Databases).</Title>
+<StartPage>205</StartPage>
+<EndPage>206</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007004/80070205.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Minos N. Garofalakis</Author>
+<Author>Banu Ozden</Author>
+<Author>Abraham S ilberschatz</Author>
+</Authors>
+<Title>On Periodic Resource scheduling for Continuous-Media Databases.</Title>
+<StartPage>206</StartPage>
+<EndPage>225</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007004/80070206.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Haitao Jiang</Author>
+<Author>Ahmed K. Elmagarmid</Author>
+</Authors>
+<Title>Spatial and Temporal Content-Based Access to Hypervideo Databases.</Title>
+<StartPage>226</StartPage>
+<EndPage>238</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007004/80070226.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Raymond T. Ng</Author>
+<Author>Paul Shum</Author>
+</Authors>
+<Title>Optimal Clip Ordering for Multi-Clip Queries.</Title>
+<StartPage>239</StartPage>
+<EndPage>252</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007004/80070239.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Aya Soffer</Author>
+<Author>Hanan Samet</Author>
+</Authors>
+<Title>Integrating Symbolic Images into a Multimedia Database System Using Classification and Abstraction Approaches.</Title>
+<StartPage>253</StartPage>
+<EndPage>274</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007004/80070253.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Pavel Zezula</Author>
+<Author>Pasquale Savino</Author>
+<Author>Giuseppe Amato</Author>
+<Author>Fausto Rabitti</Author>
+</Authors>
+<Title>Approximate Similarity Retrieval with M-Trees.</Title>
+<StartPage>275</StartPage>
+<EndPage>293</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007004/80070275.htm</ElectronicEdition>
+</Article>
+<Article>
+<Authors>
+<Author>Nevzat Hurkan Balkir</Author>
+<Author>Gultekin Ozsoyoglu</Author>
+</Authors>
+<Title>Delivering Presentations from Multimedia Servers.</Title>
+<StartPage>294</StartPage>
+<EndPage>307</EndPage>
+<ElectronicEdition>http://link.springer.de/link/service/journals/00778/bibs/8007004/80070294.htm</ElectronicEdition>
+</Article>
+</Articles>
+</NumberEntry>
+</Numbers>
+</VolumeEntry>
+</Volumes>
+</Journal>
+</Journals>
